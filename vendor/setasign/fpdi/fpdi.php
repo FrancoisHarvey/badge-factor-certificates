@@ -17,6 +17,7 @@ if (!class_exists('FPDF_TPL')) {
  */
 class FPDI extends FPDF_TPL
 {
+
     /**
      * FPDI version
      *
